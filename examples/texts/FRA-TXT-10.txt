@@ -1,0 +1,40 @@
+﻿L'université française passe de l'amphi aux cours en ligne
+LE MONDE | 02.10.2013 à 10h50 • Mis à jour le 02.10.2013 à 11h45 |
+Par Nathalie Brafman
+Abonnez-vous
+à partir de 1 € Réagir ClasserPartager facebook twitter google + linkedin pinterest
+Seuls 5 % des étudiants et 18 % des enseignants français disent savoir exactement ce que sont les MOOC, tandis que 20 % des étudiants et 23 % des enseignants en ont entendu parler sans savoir précisément ce que c'était.
+C'était une première. L'an dernier, une trentaine d'élèves ingénieurs de l'école Centrale Nantes et de Télécom Bretagne assistent à un cours sur l'acquisition des connaissances sur le Web. Un petit groupe. En réalité, ils sont beaucoup plus. Le cours est accessible aux internautes du monde entier : 1 300 étudiants, de Madagascar au Canada en passant par la Martinique, suivent l'exposé grâce à Internet.
+A l'heure des tablettes et des smartphones, les universités françaises se lancent dans une nouvelle forme d'enseignement qui devrait révolutionner l'accès à la connaissance.
+
+Nés aux Etats-Unis, les cours en ligne ouverts et massifs ("MOOC" en anglais ou "CLOM" en français) débarquent en France. Il s'agit de cours dispensés gratuitement sur Internet par les meilleurs établissements et mis à la disposition de toute personne qui veut apprendre à travers le monde. Aujourd'hui, n'importe quel étudiant peut s'inscrire à l'un des nombreux MOOC de Harvard, Stanford ou du MIT. Demain, ce sera de Polytechnique, de la Sorbonne... Geneviève Fioraso, la ministre de l'enseignement supérieur et de la recherche, devait lancer, mercredi 2 octobre, France université numérique (FUN).
+
+Lire aussi (édition abonnés) : "Comme les abbayes au temps de Gutenberg, les universités dans leur forme actuelle vont disparaître"
+
+Un acronyme à consonance anglo-saxonne pour un enjeu national. FUN proposera une plateforme, déployée par l'Institut national de recherche en informatique et en automatique (Inria), censée permettre le développement de nouveaux services numériques pour les étudiants. En clair, le déploiement à grande échelle des MOOC dès janvier 2014.
+
+Les études le prédisent : les cinq prochaines années verront exploser le marché mondial de l'e-éducation. L'enjeu est énorme : il s'agit non seulement de révolutionner la transmission des savoirs, mais aussi d'éviter qu'elle ne soit aux mains de quelques entités. L'objectif de ce plan université numérique : faire en sorte que chaque étudiant ait accès à des cours en ligne d'ici cinq ans et pouvoir obtenir à terme une certification et, pourquoi pas, un diplôme. C'est aussi l'un des enjeux de l'enseignement à distance.
+
+Il était temps que la France s'y mette. Alors qu'aux Etats-Unis 80 % des établissements disposent de cours en ligne, ils sont moins de 3 % en France. Outre-Atlantique, deux plateformes, Coursera et EdX, fondées respectivement par deux professeurs d'informatique de Stanford et par le Massachusetts Institute of Technology (MIT) et Harvard, ont investi 43 millions et 60 millions de dollars dans le développement des outils et des contenus. Aujourd'hui, plus de trois millions d'étudiants peuvent suivre les cours des plus prestigieuses universités : Stanford, Harvard, MIT...
+
+Lire aussi : Selon un sondage, la France est en retard sur les cours en ligne
+
+En Europe, le Royaume-Uni et l'Espagne ont créé des universités totalement virtuelles. Là-bas, des étudiants sortent déjà diplômés. Dans les prochains jours, le Royaume-Uni doit par ailleurs lancer sa plateforme FutureLearn. L'Allemagne en fera autant avec Iversity.
+
+En France, l'initiative du ministère de l'enseignement supérieur est une première. Jusqu'ici, s'il existait un réseau pour relier universités et laboratoires de recherche (Renater, créé en 1993), rien n'avait été pensé sur les contenus. Chacun était libre de développer ce qu'il souhaitait dans son coin.
+
+"Evidemment, le numérique ne se planifie pas d'en haut, veut rassurer Mme Fioraso. Il faut laisser de la place aux initiatives, mais il faut quand même que l'on ait une vision de ce qu'est l'université numérique en France." En clair : FUN aidera à définir ce que peuvent être des cours et des validations en ligne, à les mettre en place, à mieux faire connaître les bonnes pratiques des établissements... "L'idée, c'est vraiment d'encourager les initiatives et qu'elles soient reliées sur la même plateforme", explique la ministre. Sans pour autant imposer quoi que ce soit aux universités, autonomie oblige. Pas de "Gosplan", mais une équipe vouée au service des universités.
+
+Depuis quelques mois, un nouveau MOOC est lancé presque chaque jour. Une soixantaine ont été identifiés et vingt d'entre eux sont d'ores et déjà disponibles. Une dizaine d'établissements, des écoles – Centrale, Mines Télécom, Polytechnique –, mais aussi des universités – Bordeaux-III, Montpellier-II, Paris-X, Paris-II – développent des cours dans de nombreuses matières : histoire, mathématiques, santé, philosophie, droit...
+
+DU MAÎTRE À L'ÉCLAIREUR
+
+Au total, ce plan se décline en dix-huit actions, les MOOC devant servir à la fois à faciliter la mise en place d'aide à l'orientation des lycéens et des étudiants et à la réussite en premier cycle grâce à une pédagogie différente. L'enjeu ? Que les cours en amphi, s'ils ne disparaîtront pas complètement, soient de moins en moins nombreux.
+
+Le professeur, quant à lui, devra passer d'une posture de maître, debout sur l'estrade et régnant sur le savoir, à celle d'un éclaireur aux côtés des étudiants. Accompagnement plus personnalisé, cours interactifs, tutorat en ligne... Dans le cadre de la mise en place des Ecoles supérieures du professorat et de l'éducation (ESPE), les nouveaux professeurs devraient être formés "au" et "par" le numérique. L'une des dix-huit actions consistera d'ailleurs à reconnaître et valoriser, dans l'évolution de carrière des enseignants-chercheurs, leur investissement pour intégrer le numérique dans leurs pratiques pédagogiques. Un bouleversement énorme, sachant qu'aujourd'hui la carrière d'un enseignant-chercheur est davantage influencée par ses activités de recherche que par la reconnaissance de son activité d'enseignement.
+
+Lire l'entretien avec Patrick Aebischer, président de l'Ecole polytechnique fédérale de Lausanne, qui analyse la révolution des  MOOC en Europe (en édition abonnés)
+
+Pour que cette modernisation soit bien ancrée dans les esprits, la loi "Fioraso", promulguée en juillet, prévoit la nomination d'un vice-président chargé des questions et des ressources numériques dans les communautés d'université. Avec FUN, le ministère espère évidemment éviter que les universités et les écoles soient dépendantes des plateformes américaines. FUN disposera d'un fonds de financement spécial à travers une fondation – 12 millions d'euros, par vagues successives, seront alloués. Si rien n'est imposé, il faudra néanmoins que chaque projet proposé soit créatif. Il s'agit d'aller au-delà du professeur qui parle derrière son micro...
+
+Au-delà des étudiants, c'est toute la formation professionnelle qui est visée. Sur les 32 milliards d'euros, les universités ne récupèrent que 4 %. Enfin, le ministère vise évidemment tous les pays francophones. Là encore, l'enjeu est gigantesque. En sciences et en technologies, par exemple, les élites africaines envoient aujourd'hui leurs enfants dans des universités anglo-saxonnes.

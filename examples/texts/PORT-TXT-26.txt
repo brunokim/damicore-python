@@ -1,0 +1,36 @@
+﻿Instituto conseguiu combinar vários órgãos, criados por bio-impressão, em um mesmo dispositivo
+Miniórgãos desenvolvidos a partir de uma impressora 3-D modificada estão sendo usados para testar novas vacinas em um laboratório nos Estados Unidos.
+O processo replica as células humanas para imprimir estruturas que imitam as funções do coração, fígado, pulmão e vasos sanguíneos.
+Notícias relacionadas
+Museu de Londres vai exibir polêmica arma de plástico feita com impressora 3D
+As tentativas fracassadas de impressão 3D
+Impressora 3D 'devolve' rosto a britânico
+Tópicos relacionados
+Ciência, Saúde
+Os órgãos são então inseridos em um microchip e ligados a um substituto de sangue, permitindo aos cientistas monitorar de perto tratamentos específicos.
+O Departamento de Defesa dos Estados Unidos financiou o projeto com US$ 24 milhões (R$ 54 milhões).
+A bioimpressão, uma forma de impressão 3-D que, de fato, cria tecido humano, não é nova. Nem a ideia de cultivar tecido humano 3-D em um microchip.
+Mas os testes que estão sendo realizados no Wake Forest Institute for Regenerative Medicine, na Carolina do Norte, são os primeiros a combinar vários órgãos em um mesmo dispositivo, capaz de modelar a resposta às toxinas químicas ou a agentes biológicos.
+Órgãos impressos
+As impressoras 3-D modificadas, desenvolvidas em Wake Forest, imprimem células humanas em materiais a base de hidrogel, um tipo de gel que é capaz de reter grande quantidade de água.
+Os órgãos desenvolvidos em laboratórios são então inseridos em um chip de cinco centímetros e unidos em uma espécie de sistema circulatório que usa um substituto de sangue semelhante ao usado cirurgias de emergência.
+O substituto do sangue mantém as células vivas e pode ser usado para receber agentes químicos ou biológicos e a introduzir terapias potenciais no sistema.
+Sensores que medem a temperatura real, os níveis de oxigênio, o pH e outros fatores passam informações sobre como os órgãos reagem e, principalmente, como eles interagem uns com os outros.
+Anthony Atala, diretor do Wake Forest e coordenador da pesquisa, disse que a tecnologia poderia ser usada tanto para "prever os efeitos dos agentes químicos e biológicos quanto testar a eficiência de tratamentos potenciais".
+"Na prática, estamos fazendo testes em tecido humano", afirmou ele.
+"Funciona melhor do que os testes em animais", acrescentou.
+Antiterrorismo
+ Anthony Atala | Crédito: AP
+Anthony Atala disse que tecnologia pode ajudar a testar a eficiência de tratamentos potenciais
+Uma equipe de especialistas dos Estados Unidos está envolvida em aprimorar a tecnologia.
+O financiamento para o projeto veio da Agência de Redução de Ameaças da Defesa (DTRA, na sigla em inglês), uma divisão do governo americano que combate armas biológicas, químicas e nucleares.
+Os testes que estão sendo realizados em Wake Forest "reduziriam significativamente o tempo e o custo necessários para desenvolver respostas médicas a ataques bioterroristas", diz Clint Florence, chefe interino do setor de vacinas da DTRA.
+Wake Forest informou que conseguiu testar antídotos para o gás sarin, recentemente usado contra civis na Síria, segundo a ONU.
+Processo de impressão
+Atala, cujo campo de atuação é a medicina regenerativa, afirmou que a tecnologia de bioimpressão foi usado inicialmente no Wake Forest para criar tecidos e órgãos para transplantes em pacientes.
+A sua equipe conseguiu replicar órgãos achatados como pele, órgãos tubulares, tais como vasos sanguíneos, e até órgãos ocos não tubulares, como a bexiga e o estômago, que possuem estruturas e funções mais complexas.
+Mas construir órgãos maiores como coração e fígado ainda representa um grande desafio.
+São necessários 30 minutos para imprimir uma miniatura de um rim ou do coração do tamanho de um biscoito pequeno.
+"Há tantas células por centímetro que fazer um órgão do zero é um processo bastante complexo", definiu Atala à BBC.
+Mas a bioimpressão de órgão sólidos em tamanho real não está tão distante quanto se imagina.
+"Estamos trabalhando nessa área agora", disse Atala.

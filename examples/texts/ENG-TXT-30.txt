@@ -1,0 +1,69 @@
+﻿Updated SpaceX Falcon rocket blasts off
+By Jonathan Amos
+Science correspondent, BBC News
+Lift-off
+It is the first time a Falcon has flown out of the Vandenberg Air Force Base
+Continue reading the main story
+Related Stories
+
+Texas aims to be commercial spaceflight hub
+Ariane sizes up for competition
+Cygnus freighter reaches station
+The US SpaceX company has successfully launched a new version of its Falcon 9 rocket from California.
+
+The vehicle, carrying the Canadian Cassiope research satellite, lifted clear of the Vandenberg Air Force Base at 09:00 local time (16:00 GMT).
+
+The desired orbit was achieved nine minutes later.
+
+SpaceX says the updated rocket, known as Falcon 9v1.1, incorporates a number of modifications to boost performance and simplify operations.
+
+This first outing should now open the way for the new model to begin carrying satellites for the private sector.
+
+In addition to the business it already has with Nasa to resupply the space station, SpaceX has a long backlog of commercial customers waiting for a Falcon to launch their spacecraft.
+
+These include the big telecommunications companies which own the platforms that relay the world's TV and phone traffic.
+
+It is a launch market that has become dominated in recent years by the European Ariane 5 vehicle. SpaceX aims to take a large slice of its work, and is offering very competitive prices.
+
+New opportunities
+The 9v1.1 features more powerful Merlin engines and stretched tanks for additional propellant.
+
+Sunday's launch was also the first time the rocket had flown with its new payload fairing.
+
+Second stage engine
+The nozzle on the second-stage engine glows brightly as it powers to orbit
+This 13m-tall, 5m-wide clamshell covering is necessary to protect satellites from the aerodynamic forces encountered during an ascent.
+
+Another first was SpaceX's use of Vandenberg. Until now, all Falcon launches have gone out of Cape Canaveral Air Force Station in Florida.
+
+The West Coast facility allows the Falcon to undertake a greater range of missions. In particular, it enables the rocket to fly south out over the ocean, away from land, to reach the polar orbits favoured by Earth observation satellites.
+
+SpaceX CEO and chief designer, Elon Musk, expressed satisfaction with the day's events: "It was a great day and we accomplished all of our primary mission objectives.
+
+"We demonstrated a lot of new technologies successfully, including the Merlin 1D engine, the new stage-separation system, the much taller rocket which structurally performed very well, [and] the 17-ft diameter fairing, which separated successfully. Overall - really great."
+
+Recycling rockets
+There is sure to be a lot of interest, also, in the outcome of an experiment that SpaceX ran on Sunday with the Falcon's first stage.
+
+Normally, this initial segment of a rocket falls back to Earth after burning out and is destroyed. But the company is endeavouring to develop a system that would allow it to recover and recycle these stages, further reducing the cost of launching a Falcon vehicle.
+
+Ultimately, the idea is for Falcon first stages to have legs to permit them to make soft landings.
+
+During Sunday's mission, three first-stage engines were commanded to reignite, to see if they could bring the rocket segment down through the atmosphere intact. A fourth engine was then ignited to try to slow the stage still further just before it touched the water.
+
+Mr Musk reported that the test went well, although the stage lost stability in the moments prior to impacting the water - a behaviour he says his engineering team understands and can correct.
+
+"So it hit the water relatively hard," he told reporters.
+
+"We've recovered portions of the stage. But the most important thing is we now believe we have all the pieces of the puzzle."
+
+And Mr Musk said SpaceX would attempt to land a stage on legs, on land, early next year.
+
+The MDA Corporation, which built the Cassiope satellite, reported that the small research platform was performing as expected after being ejected by the Falcon's second stage. Cassiope, a project of the Canadian Space Agency, will study the Sun's interaction with Earth's upper atmosphere.
+
+SES World Skies will be the first private sector customer to use the Falcon 9v1.1.
+
+It has a telecommunication satellite called SES-8 that needs to be put 36,000km above the Asia Pacific region.
+
+Grasshopper test
+SpaceX has a programme called Grasshopper that is developing recoverable stage technology
